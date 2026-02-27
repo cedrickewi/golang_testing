@@ -1,0 +1,10 @@
+mode: set
+primenumber/main.go:5.13,11.2 3 0
+primenumber/main.go:13.36,15.22 1 1
+primenumber/main.go:15.22,17.3 1 1
+primenumber/main.go:20.2,20.11 1 1
+primenumber/main.go:20.11,22.3 1 1
+primenumber/main.go:25.2,25.28 1 1
+primenumber/main.go:25.28,26.15 1 1
+primenumber/main.go:26.15,30.4 1 1
+primenumber/main.go:33.2,33.54 1 1
