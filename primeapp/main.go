@@ -36,7 +36,7 @@ func readUserInput(doneChan chan bool) {
 
 		if done {
 			doneChan <- true
-			return
+			return 
 		}
 
 		fmt.Println(res)
